@@ -13,39 +13,39 @@
 A process or set of steps to accomplish a task
 
 ### Sorting
-- [Bubble sort](Bubble-sort.md)
-- [Selection-sort](Selection-sort.md)
-- [Insertion-sort](Insertion-sort.md)
-- [Merge-sort](Merge-sort.md)
-- [Quick-sort](Quick-sort.md)
-- [Radix-sort](Radix-sort.md)
+- [Bubble sort](bubble-sort.md)
+- [selection-sort](selection-sort.md)
+- [insertion-sort](insertion-sort.md)
+- [merge-sort](merge-sort.md)
+- [quick-sort](quick-sort.md)
+- [radix-sort](radix-sort.md)
 
 ### Searching
 - [Linear-search](Linear-search.md)
-- [Binary-search](Binary-search.md)
+- [binary-search](binary-search.md)
 
 ### Others
-- [Disjkstra's-algorithm](Disjkstra's-algorithm.md)
+- [dijkstras-algorithm](dijkstras-algorithm.md)
 
 ## Data Structures
 Format to organize, manage, and store data so it can be accessed and modified efficiently
 
 ###### Abstract Data Types
 Implemented using concrete dt
-- [Stack](Stack.md)
-- [Queue](Queue.md)
-- [Hash-map](Hash-map.md)
+- [stack](stack.md)
+- [queue](queue.md)
+- [hash-map](hash-map.md)
 - [List](List.md)
 
 ###### Concrete Data Types
 Direct implementation of a ds
-- [Array](Array.md)
-- [Linked-list](Linked-list.md)
-- [Graphs](Graphs.md)
-- [Trees](Trees.md)
+- [array](array.md)
+- [linked-list](linked-list.md)
+- [graphs](graphs.md)
+- [trees](trees.md)
 
 ## Analysis
-- [Time-complexity](Time-complexity.md)
+- [time-complexity](time-complexity.md)
 
 ## Resources
 - Books
