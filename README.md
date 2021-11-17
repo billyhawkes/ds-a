@@ -1,72 +1,51 @@
 # Algorithms & Data Structures
---- 
-Programming Language: TypeScript
 
 ### Learning Path
-1. General Knowledge (~1d)
-- DS & Alg 
-- Big O analysis (worst case)
-
-2. Specific Understanding (~1m)
-- Joma class?
-- MIT Lectures
-
-3. Implement from scratch (~2w)
-
-4. Practice & Spaced repitition (~rest+)
+1. General Knowledge 
+2. Specific Understanding 
+3. Implement from scratch
+4. Practice & Spaced repitition 
 - Practice with timer, no google
 - 5+ questions a day
-- 250+ Leetcode questions
+- 100+ Leetcode questions
 
 ## Algorithms
----
 A process or set of steps to accomplish a task
 
 ### Sorting
----
-- Rearanging items (numbers, alphebetically, year, etc)
-
-**Elementary**
-[[Bubble sort]]
-[[Selection sort]]
-[[Insertion sort]]
-**Intermediate**
-[[Merge sort]]
-[[Quick sort]]
-[[Radix sort]]
+- [Bubble sort](Bubble-sort.md)
+- [Selection-sort](Selection-sort.md)
+- [Insertion-sort](Insertion-sort.md)
+- [Merge-sort](Merge-sort.md)
+- [Quick-sort](Quick-sort.md)
+- [Radix-sort](Radix-sort.md)
 
 ### Searching
----
-[[Linear search]]
-[[Binary search]]
+- [Linear-search](Linear-search.md)
+- [Binary-search](Binary-search.md)
 
 ### Others
-[[Disjkstra's algorithm]]
-
+- [Disjkstra's-algorithm](Disjkstra's-algorithm.md)
 
 ## Data Structures
----
 Format to organize, manage, and store data so it can be accessed and modified efficiently
 
 ###### Abstract Data Types
 Implemented using concrete dt
-[[Stack]]
-[[Queue]]
-[[Hash Maps]]
-[[List]]
+- [Stack](Stack.md)
+- [Queue](Queue.md)
+- [Hash-map](Hash-map.md)
+- [List](List.md)
 
 ###### Concrete Data Types
 Direct implementation of a ds
-[[Array]]
-[[Linked list]]
-[[Graphs]]
-[[Trees]]
+- [Array](Array.md)
+- [Linked-list](Linked-list.md)
+- [Graphs](Graphs.md)
+- [Trees](Trees.md)
 
 ## Analysis
----
-[[Time Complexity]]
-
-
+- [Time-complexity](Time-complexity.md)
 
 ## Resources
 - Books

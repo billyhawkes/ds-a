@@ -6,12 +6,12 @@ Format to organize, manage, and store data so it can be accessed and modified ef
 Interface
 [[Stack]]
 [[Queue]]
-[[Hash Maps]]
+[[Hash-map]]
 [[List]]
 
 ###### Concrete Data Structures
 Implementation
 [[Array]]
-[[Linked list]]
+[[Linked-list]]
 [[Graphs]]
 [[Trees]]
