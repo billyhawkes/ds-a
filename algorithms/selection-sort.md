@@ -5,17 +5,16 @@ worst: n^2
 space: 1
 ---
 # Selection sort
----
 - Selects smallest value and places at the beginning
 - After each pass, the first value is sorted
 
-###### Pseudocode
+### Pseudocode
 1. Store first element as smallest
 2. Loop through and compare to find the smallest number
 3. If minimum is not the first index, swap
 4. Repeat from index above min
 
-###### Implementation
+### Implementation
 ``` js
 function selectionSort(arr) {
 	//  Passes over the array

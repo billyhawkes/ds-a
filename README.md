@@ -30,18 +30,18 @@ A process or set of steps to accomplish a task
 ## Data Structures
 Format to organize, manage, and store data so it can be accessed and modified efficiently
 
-###### Abstract Data Types
-Implemented using concrete dt
+### Abstract Data Types
+###### Defined by its behaiour
 - [stack](data-structures/stack.md)
 - [queue](data-structures/queue.md)
-- [hash-map](data-structures/hash-map.md)
+- [hash-table](hash-table.md)
 
-###### Concrete Data Types
-Direct implementation of a ds
+### Concrete Data Types
+###### Describes implementation of data
 - [array](data-structures/array.md)
-- [linked-list](data-structures/linked-list.md)
-- [graphs](data-structures/graphs.md)
-- [trees](data-structures/trees.md)
+- [singly-linked-list](singly-linked-list.md)
+- [graph](data-structures/graph.md)
+- [tree](data-structures/tree.md)
 
 ## Analysis
 - [time-complexity](time-complexity.md)

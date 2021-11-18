@@ -1,7 +1,5 @@
 # Time Complexity
----
 ## Big O Notation
----
 System of comparing code and its performance as input grows
 - Worst case upper bound of an algorithm
 
@@ -10,7 +8,7 @@ Determining Big O
 - Drop constants and use highest order
 - Ex. O(5n^2 + n) = O(n^2)
 
-###### Time complexities 
+### Time complexities 
 - O(1) Constant
 	- Arithmitic
 	- Assignment
@@ -24,7 +22,7 @@ Determining Big O
 - O(2^n) Exponential
 - O(n!) Factorial
 
-###### Space complexities
+### Space complexities
 - O(1)
 	- Primitives: numbers, bools, undefined, etc
 - O(n)

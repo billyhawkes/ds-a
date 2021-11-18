@@ -1,8 +1,6 @@
 # Problem Solving
----
 
 ## Approach
----
 ##### Step 1: Understand the problem
 1. Can you restate the problem in your own words?
 2. Inputs?
@@ -30,12 +28,8 @@
 - How have others solved it? 
 
 
-## Approaches
----
+## Patterns
 ###### Frequency Counter
 - Sets frequencies of the values and compares
 - Use: prevents nested for loops O(n^2)
 - Ex. comparing anagrams, if they match (same # characters)
-
-###### Multiple Pointers
-- 

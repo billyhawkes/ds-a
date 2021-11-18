@@ -1,4 +1,9 @@
-###### Trees
+# Tree
+- Consists of nodes in a parent/child relationship
+- Contains a root (top), edges (connection between nodes) and leafs (node with no children)
+
+
+
 - Nodes point to left and right nodes
 - Types
 	- Binary search tree 
