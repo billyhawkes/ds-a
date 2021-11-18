@@ -34,12 +34,13 @@ Format to organize, manage, and store data so it can be accessed and modified ef
 ###### Defined by its behaiour
 - [stack](data-structures/stack.md)
 - [queue](data-structures/queue.md)
-- [hash-table](hash-table.md)
+- [hash-table](data-structures/hash-table.md)
 
 ### Concrete Data Types
 ###### Describes implementation of data
 - [array](data-structures/array.md)
-- [singly-linked-list](singly-linked-list.md)
+- [singly-linked-list](data-structures/singly-linked-list.md)
+- [doubly-linked-list](data-structures/doubly-linked-list.md)
 - [graph](data-structures/graph.md)
 - [tree](data-structures/tree.md)
 
