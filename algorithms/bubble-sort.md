@@ -9,13 +9,6 @@ space: 1
 - "Bubbles" the items up
 - After each pass, the last value is sorted
 
-### Pseudocode
-1. Outer loop: i, end to beginning of array (passes)
-2. Inner loop: j, beginning to i-1 (through array)
-3. Swap if current item is greater than the next
-4. If no swaps in a pass, break out of loop
-5. Return sorted array
-
 ### Implementation
 ``` js
 function bubbleSort(arr) {

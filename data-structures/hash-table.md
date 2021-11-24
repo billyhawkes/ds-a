@@ -9,12 +9,12 @@ access: 1
 - Keys are hashed to a data address, which is used to place the value in memory
 - Ex. Python dictionary, Javascript object
 
-##### Collisions
+### Collisions
 When two keys are hashed to the same address
 - Seperate Chaining: Stores values at each index in a nested data structure (ex. array)
 - Linear Probing: Stores collided value in next empty slot
 
-### Hash Table Implementation
+### Implementation
 ``` js
 // Hashes string to index in length
 function hash(key, size) {

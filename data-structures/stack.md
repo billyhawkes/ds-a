@@ -8,7 +8,7 @@ access: n
 - LIFO: Last In First Out
 - Ex. Stacked plates, function call stack, undo/redo, browser history, etc
 
-### Array Implementation
+### Implementation (Array)
 ``` js 
 // Create basic array
 let stack = [];

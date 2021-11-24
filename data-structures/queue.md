@@ -8,7 +8,7 @@ access: n
 - FIFO: First In First Out
 - Ex. Waiting in line, game lobby queue, computer downloads, etc
 
-### Array Implementation
+### Implementation (Array)
 ``` js
 let queue = []
 

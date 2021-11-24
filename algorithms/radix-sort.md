@@ -9,14 +9,7 @@ space: n + k
 - Does not make comparisons and works on numbers
 - Group based on digits for each digit from the end to beginning
 
-### Radix sort Pseudocode
-1. Find max amount of digits
-2. Loop through number of digits
-	1. Create buckets for each digit (0-9)
-	2. Place each number based on its corresponding kth digit
-	3. Replace existing array with values in each bucket (0-9)
-
-### Radix sort Implementation
+### Implementation
 ``` js 
 function radixSort(arr) {
 	// Finds max amount of digits
@@ -37,10 +30,7 @@ function radixSort(arr) {
 	}
 	return arr;
 }
-```
 
-### Helpers Implementation
-``` js
 // Gets digit at position
 function getDigit(num, place) {
 	return Math.floor((Math.abs(num) / Math.pow(10, place)) % 10);

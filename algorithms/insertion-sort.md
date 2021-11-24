@@ -7,12 +7,6 @@ space: 1
 # Insertion Sort
 - Inserts each item into a sorted portion of the array
 
-### Psuedocode
-1. Start passes at index 1 as first item is considered sorted
-2. Compare item down the sorted left side
-3. While the item is less, move each other item up
-4. When the item is greater or at the beginning, insert
-
 ### Implementation
 ``` js
 function insertionSort(arr) {

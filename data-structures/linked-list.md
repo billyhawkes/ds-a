@@ -13,7 +13,7 @@ access: n
 **Doubly-linked list**: Each node points to next and previous and last nodes next is null
 **Circular-linked list**: Each node points to next and last node point to first
 
-### Linked List Implementation
+### Implementation (Singly)
 ``` js
 class Node {
 	constructor(val) {
