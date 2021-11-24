@@ -39,7 +39,7 @@ Format to organize, manage, and store data so it can be accessed and modified ef
 ### Concrete Data Types
 ###### Describes implementation of data
 - [array](data-structures/array.md)
-- [singly-linked-list](data-structures/singly-linked-list.md)
+- [linked-list](linked-list.md)
 - [doubly-linked-list](data-structures/doubly-linked-list.md)
 - [graph](data-structures/graph.md)
 - [tree](data-structures/tree.md)
