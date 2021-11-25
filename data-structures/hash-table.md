@@ -28,7 +28,9 @@ function hash(key, size) {
 }
 
 class HashTable {
-	table = new Array(101);
+	constructor() {
+		table = new Array(101);
+	}
 
 	// Adds a key and value pair to the table
 	set(key, value) {

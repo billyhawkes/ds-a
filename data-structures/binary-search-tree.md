@@ -1,6 +1,7 @@
 ---
 insertion: log n
 searching: log n
+# Based on levels 
 ---
 # Binary Search Tree
 - Each node has at most 2 children
@@ -42,7 +43,7 @@ class BinarySearchTree {
 				if (!current.right) {
 					current.right = newNode;
 					return this;
-				} else current = current.left;
+				} else current = current.right;
 			}
 			// If new node < current, put new node as left or move to existing left
 			else if (newNode.value < current.value) {
