@@ -29,7 +29,17 @@
 
 
 ## Patterns
-###### Frequency Counter
+#### Frequency Counter
 - Sets frequencies of the values and compares
 - Use: prevents nested for loops O(n^2)
 - Ex. comparing anagrams, if they match (same # characters)
+
+#### Multiple Pointers
+- Two pointer moving towards a front, middle, or end
+
+#### Sliding Window
+- Using a window into an array and shifting it (remove first, add new last), instead of recalculating with new first to last subset
+- Good for subsets
+
+#### Divide & Conquer
+- Dividing data and repeating with subsets (log n)
