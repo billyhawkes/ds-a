@@ -13,16 +13,20 @@
 A process or set of steps to accomplish a task
 
 ### Sorting
-- [bubble sort](algorithms/bubble-sort.md)
-- [selection sort](algorithms/selection-sort.md)
-- [insertion sort](algorithms/insertion-sort.md)
-- [merge sort](algorithms/merge-sort.md)
-- [quick sort](algorithms/quick-sort.md)
-- [radix sort](algorithms/radix-sort.md)
+###### Comparison
+- [bubble sort](bubble-sort.md)
+- [selection sort](selection-sort.md)
+- [insertion sort](insertion-sort.md)
+- [merge sort](merge-sort.md)
+- [quick sort](quick-sort.md)
+###### Non-comparison
+- [radix sort](radix-sort.md)
+- counting sort
+- bucket sort
 
 ### Searching
-- [linear search](algorithms/linear-search.md)
-- [binary search](algorithms/binary-search.md)
+- [linear search](linear-search.md)
+- [binary search](binary-search.md)
 
 ### Others
 - [dijkstras algorithm](algorithms/dijkstras-algorithm.md)
@@ -32,16 +36,16 @@ Format to organize, manage, and store data so it can be accessed and modified ef
 
 ### Abstract Data Types
 ###### Defined by its behaiour
-- [stack](data-structures/stack.md)
-- [queue](data-structures/queue.md)
-- [hash-table](data-structures/hash-table.md)
+- [stack](stack.md)
+- [queue](queue.md)
+- [hash-table](hash-table.md)
 
 ### Concrete Data Types
 ###### Describes implementation of data
-- [array](data-structures/array.md)
+- [array](array.md)
 - [linked-list](linked-list.md)
-- [graph](data-structures/graph.md)
-- [tree](data-structures/tree.md)
+- [graph](graph.md)
+- [tree](tree.md)
 
 ## Analysis
 - [time-complexity](time-complexity.md)

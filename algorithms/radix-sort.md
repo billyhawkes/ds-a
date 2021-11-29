@@ -7,7 +7,7 @@ space: n + k
 ---
 # Radix Sort
 - Does not make comparisons and works on numbers
-- Group based on digits for each digit from the end to beginning
+- Groups based on digits for each digit from the end to beginning
 
 ### Implementation
 ``` js 
